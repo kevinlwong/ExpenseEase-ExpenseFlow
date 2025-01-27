@@ -1,5 +1,5 @@
 
-```
+
 #ExpenseEase
 
 **ExpenseEase** is a simple and user-friendly expense tracker application designed to help users manage and organize their daily expenses. It features a minimalist design, responsive layout, and CRUD functionality for seamless expense tracking.
@@ -181,4 +181,4 @@ This project is licensed under the MIT License.
 ---
 
 Feel free to contribute to this project by opening issues or submitting pull requests!
-``` 
+
