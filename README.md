@@ -1,6 +1,5 @@
-Here’s a sample `README.md` file for your **ExpenseEase** project:
 
-```markdown
+```
 # ExpenseEase
 
 **ExpenseEase** is a simple and user-friendly expense tracker application designed to help users manage and organize their daily expenses. It features a minimalist design, responsive layout, and CRUD functionality for seamless expense tracking.
