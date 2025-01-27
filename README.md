@@ -1,12 +1,12 @@
 
 
-#ExpenseEase
+# ExpenseEase
 
 **ExpenseEase** is a simple and user-friendly expense tracker application designed to help users manage and organize their daily expenses. It features a minimalist design, responsive layout, and CRUD functionality for seamless expense tracking.
 
 ---
 
-##Features
+## Features
 
 - **Add Expenses**: Log your expenses with details like date, category, amount, and description.
 - **View Expenses**: See your expenses in a list format, sorted by date (ascending/descending).
